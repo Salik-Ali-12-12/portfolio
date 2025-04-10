@@ -26,14 +26,14 @@
     <link href="assets/images/67ee64cfc80b8cb95383ff3b_Webflow Webclip.png" rel="apple-touch-icon" />
     <style>
         /* Chrome, Safari, Edge, Opera */
-        input::-webkit-outer-spin-button,
-        input::-webkit-inner-spin-button {
+        #phone::-webkit-outer-spin-button,
+        #phone::-webkit-inner-spin-button {
             -webkit-appearance: none;
             margin: 0;
         }
 
         /* Firefox */
-        input[type=number] {
+        #phone[type=number] {
             -moz-appearance: textfield;
         }
 
@@ -774,7 +774,7 @@
                 </div>
                 <!-- Budget (Optional) -->
                 <div class="form-group">
-                    <input type="text" id="budget" name="budget" placeholder=" ">
+                    <input type="number" id="budget" name="budget" placeholder=" ">
                     <label for="budget">Budget (Optional)</label>
                 </div>
                 <!-- Message -->
