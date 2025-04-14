@@ -3819,25 +3819,49 @@ figure {
 }
 
 .loop-image._2 {
-  background-image: url("../images/67eb5bcddc5fd3305d5a9dfc_3e79159194785d928cb271bf8b141b18_Asset_39.png");
+  background-image: url("../images/htnl.png");
   background-size: contain;
+  height: 90px;
 }
 
 .loop-image._4 {
-  background-image: url("../images/67eb5bcddc5fd3305d5a9dfa_53fe047170e58e2de31eb676cf336c04_Asset_37.png");
+  background-image: url("../images/css.png");
   background-size: contain;
+  height: 90px;
+}
+.loop-image._5 {
+  background-image: url("../images/tailwindcss.png");
+  background-size: contain;
+  height: 90px;
+}
+.loop-image._6 {
+  background-image: url("../images/php.png");
+  background-size: contain;
+  height: 90px;
+}
+.loop-image._7 {
+  background-image: url("../images/mysql.png");
+  background-size: contain;
+  height: 90px;
+}
+.loop-image._8 {
+  background-image: url("../images/github.png");
+  background-size: contain;
+  height: 90px;
 }
 
 .loop-image._1 {
-  background-image: url("../images/67eb5bcddc5fd3305d5a9dfd_de84b3bf5345d8c4cbacbbe8fe695947_Asset_40.png");
+  background-image: url("../images/js.png");
   background-position: 50%;
+  height: 90px;
   background-repeat: no-repeat;
   background-size: contain;
 }
 
 .loop-image._3 {
-  background-image: url("../images/67eb5bcddc5fd3305d5a9dfd_de84b3bf5345d8c4cbacbbe8fe695947_Asset_40.png");
+  background-image: url("../images/bootstarp.png");
   background-repeat: no-repeat;
+  height: 90px;
   background-size: contain;
 }
 
@@ -3943,7 +3967,7 @@ figure {
   aspect-ratio: 2;
   border-radius: var(--4xs);
   object-fit: cover;
-  background-image: url("../images/67eb5bcddc5fd3305d5a9dde_be10edc65f46580705f7eca8a87d563d_Asset_2.jpeg");
+  background-image: url("../images/bann.png");
   background-position: 50%;
   background-size: cover;
   justify-content: flex-start;
